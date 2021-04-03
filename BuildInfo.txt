@@ -1,0 +1,5 @@
+Nitrogen Version:
+2.4.0
+
+Built On (uname -v):
+Darwin Kernel Version 20.4.0: Thu Mar 25 07:05:22 PDT 2021; root:xnu-7195.101.1~26/RELEASE_X86_64
